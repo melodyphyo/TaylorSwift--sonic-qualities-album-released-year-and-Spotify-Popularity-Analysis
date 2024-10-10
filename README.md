@@ -1,5 +1,7 @@
  ![image](https://github.com/user-attachments/assets/483da596-45d9-47d6-bb1f-aa242f5c6ef2)
 
+You can read the article for this analysis [here] (https://medium.com/@melodyphyo/taylor-swift-spotify-popularity-analysis-b060bb83ce82)
+
 # Introduction
 
 As a dedicated fan of Taylor Swift, I am inspired to explore and analyze her remarkable career using data analytics. For my data analyst portfolio, I have chosen to work with the Taylor Swift Spotify dataset sourced from Kaggle.
@@ -142,4 +144,4 @@ We observed that while there are slight positive correlations between popularity
 # Share
 View the GitHub for this analysis here (link)
 
-You can read the article for this analysis [here] (https://medium.com/@melodyphyo/taylor-swift-spotify-popularity-analysis-b060bb83ce82) (here)
+ 
