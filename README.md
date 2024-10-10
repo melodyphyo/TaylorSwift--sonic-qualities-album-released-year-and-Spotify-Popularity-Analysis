@@ -24,7 +24,7 @@ I conducted this data analysis on Taylor Swift’s Spotify data by following a t
 * Data is stored in a CSV file
 * Data was pulled from a dataset on Kaggle (Kindly take note that the data was pulled on Sep 2024)
 ### Data Cleaning
-* Fortunately, the data was mostly clean and required minimal cleaning. I performed the data cleaning in Jupyter Notebook using Python and its Data Science Libraries (Pandas, Matplotlib, Seaborn).
+* Fortunately, the data was mostly clean and required minimal cleaning. I performed the data cleaning in** _Jupyter Notebook using Python and its Data Science Libraries (Pandas, Matplotlib, Seaborn)._**
 
 * Deleted unnecessary columns for this analysis, such as uri, Unnamed: 0, and id.
 * Adjusted data types where necessary.
