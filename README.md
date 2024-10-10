@@ -1,6 +1,6 @@
  ![image](https://github.com/user-attachments/assets/483da596-45d9-47d6-bb1f-aa242f5c6ef2)
 
-You can read the article for this analysis [here] (https://medium.com/@melodyphyo/taylor-swift-spotify-popularity-analysis-b060bb83ce82)
+You can read the article for this analysis [here](https://medium.com/@melodyphyo/taylor-swift-spotify-popularity-analysis-b060bb83ce82)
 
 # Introduction
 
